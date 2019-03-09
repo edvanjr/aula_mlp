@@ -1,1 +1,1 @@
-Material utilizado na aula da disciplina de Redes Neurais sobre MLP.
+Material utilizado na aula sobre MLP da disciplina de Redes Neurais.
